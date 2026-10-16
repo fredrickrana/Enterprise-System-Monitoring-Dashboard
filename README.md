@@ -1,4 +1,4 @@
-# Enterprise-Camera-System-Monitor
+# Enterprise-System-Monitoring-Dashboard
 A full-stack web application that simulates and monitors an enterprise-scale IP camera system across multiple airport locations. This project was built to demonstrate real-world infrastructure monitoring, troubleshooting workflows, and system design concepts used in large environments like airports.
 
 Live Demo
